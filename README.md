@@ -1,2 +1,2 @@
-# L_un_Des_Sens
-L'un des sens - Website
+# ReBot Project :
+Remote FTP/SSH client directly into your discord server !
