@@ -1,2 +1,2 @@
 # ReBot Project :
-Remote FTP/SSH client directly into your discord server !
+Remote SSH client directly into your discord server !
